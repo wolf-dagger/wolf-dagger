@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PRASHANT SHARMA
-- 👀 I’m interested in HTML CSS JavaScript
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
