@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React and Next Js and aim to be a Full Stack Developer
 - 💞️ I’m looking for a High Energy Team that i can work with and grow with them
-- 📫 How to reach me : prashantp5sharma.1998@gmail.com
+- 📫 How to reach me : prashant-sharma@zohomail.in
 
 <!---
 wolf-dagger/wolf-dagger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
